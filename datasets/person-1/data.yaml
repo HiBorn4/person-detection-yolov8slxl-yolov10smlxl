@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: person-noz19
+  url: https://universe.roboflow.com/persondetection-yjhnb/person-noz19/dataset/1
+  version: 1
+  workspace: persondetection-yjhnb
+test: /home/hi-born4/Bristlecone/person_detection/datasets/person-1/test/images
+train: /home/hi-born4/Bristlecone/person_detection/datasets/person-1/train/images
+val: /home/hi-born4/Bristlecone/person_detection/datasets/person-1/val/images
