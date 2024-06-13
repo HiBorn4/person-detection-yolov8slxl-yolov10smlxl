@@ -1,0 +1,13 @@
+description: Ultralytics best model trained on c:\Users\amarg\OneDrive\Desktop\person_detection\person-1/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-05-28T23:40:53.788130'
+version: 8.0.196
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 800
+- 800
+names:
+  0: person
